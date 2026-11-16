@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+traces/
+data/raw/
+coverage/
+*.log
+.DS_Store
+
+# Personal plan, kept local
+PLAN.md
